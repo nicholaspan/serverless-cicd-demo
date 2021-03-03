@@ -22,7 +22,7 @@
     "@google-cloud/debug-agent": "2.4.0",
     "camelcase": "^5.0.0",
     "glob": "^7.1.2",
-    "pug": "2.0.3",
+    "pug": "3.0.1",
     "safe-buffer": "5.1.1",
     "twilio": "^3.18.0"
   },
